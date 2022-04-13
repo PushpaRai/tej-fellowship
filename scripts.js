@@ -5,7 +5,6 @@ function hello(){
 alert ("Hello there!");
 }
 
-
 function incrementValue()
 {
 var value = parseInt(document.getElementById('number').value);
